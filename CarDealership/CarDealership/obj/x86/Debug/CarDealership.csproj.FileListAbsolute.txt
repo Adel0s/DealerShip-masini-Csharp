@@ -1,0 +1,17 @@
+D:\C# Projects\Atestate\Copie\CarDealership\Atestat-Ceoponea Andrei\bin\Debug\CarDealership.exe.config
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\bin\Debug\CarDealership.exe.config
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\bin\Debug\CarDealership.exe
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\bin\Debug\CarDealership.pdb
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.AdaugaMasina.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Cumpara.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Despre.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Detalii.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Form1.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Inchirieri.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Meniu.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Properties.Resources.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.Register.resources
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.csproj.GenerateResource.Cache
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.exe
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.pdb
+D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\bin\Debug\Atestat-Ceoponea Andrei.exe
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\bin\Debug\Atestat-Ceoponea Andrei.pdb
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Form1.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Properties.Resources.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat-Ceoponea Andrei.csproj.GenerateResource.Cache
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat-Ceoponea Andrei.exe
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat-Ceoponea Andrei.pdb
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Register.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Meniu.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.AdaugaMasina.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Inchirieri.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat-Ceoponea Andrei.csprojResolveAssemblyReference.cache
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Detalii.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Cumpara.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat_Ceoponea_Andrei.Despre.resources
+D:\C# Projects\Atestate\Atestat-Ceoponea Andrei\Atestat-Ceoponea Andrei\bin\Debug\Atestat-Ceoponea Andrei.exe.config
+D:\C# Projects\Atestate\Copie\CarDealership\Atestat-Ceoponea Andrei\bin\Debug\Atestat-Ceoponea Andrei.exe.config
+D:\C# Projects\Atestate\Copie\CarDealership\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat-Ceoponea Andrei.exe
+D:\C# Projects\Atestate\Copie\CarDealership\Atestat-Ceoponea Andrei\obj\x86\Debug\Atestat-Ceoponea Andrei.pdb
